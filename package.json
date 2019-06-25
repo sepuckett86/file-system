@@ -1,0 +1,21 @@
+{
+  "name": "file-system-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepuckett86/file-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepuckett86/file-system/issues"
+  },
+  "homepage": "https://github.com/sepuckett86/file-system#readme",
+  "dependencies": {}
+}
