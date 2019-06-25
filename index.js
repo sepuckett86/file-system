@@ -1,9 +1,9 @@
 const fs = require('fs');
 
 function copy(src, dest, callback) {
-  // finish
+  callback();
 }
 
-module.export = {
+module.exports = {
   copy
 }
